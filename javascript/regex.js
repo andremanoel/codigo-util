@@ -1,0 +1,2 @@
+// Pattern para AlfaNumericos
+<input matInput # assunto maxlength="100" placeholder="Informe o Assunto" required formControlName="descricaoProcesso" pattern="^[^-\s][\w \s!#$%&'()*+,-./:;?@[\\\]_`{|}~=]*">
